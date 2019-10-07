@@ -1,5 +1,5 @@
 _repo: Hermano-kaj-Doroteo-Eposo-idilia_60429
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Küster, Benno
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '50958'
     url: http://www.gutenberg.org/2009/agents/50958
     wikipedia: https://eo.wikipedia.org/wiki/Benno_K%C3%BCster
+covers:
+- cover_type: archival
+  image_path: 60429-h/images/cover.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60429#Hermano-kaj-Doroteo-Eposo-idilia
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2019-10-05'
 gutenberg_type: Text
