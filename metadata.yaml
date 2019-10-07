@@ -1,0 +1,37 @@
+_repo: Hermano-kaj-Doroteo-Eposo-idilia_60429
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Küster, Benno
+    birthdate: 1861
+    deathdate: 1916
+    gutenberg_agent_id: '50958'
+    url: http://www.gutenberg.org/2009/agents/50958
+    wikipedia: https://eo.wikipedia.org/wiki/Benno_K%C3%BCster
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2019-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60429'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hermano kaj Doroteo
+
+  Eposo idilia'
+url: http://www.gutenberg.org/ebooks/60429
